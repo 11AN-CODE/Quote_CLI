@@ -79,8 +79,8 @@ async function main() {
         // Stop the spinner and mark it as successful
         spinner.stopAndPersist({ symbol: chalk.green('✔') }); 
 
-        const quote = quoteData.content;
-        const authorName = quoteData.author;
+        const quote = quoteData.q;
+        const authorName = quoteData.a;
         
         // 3. Display the results with Chalk styling
         
