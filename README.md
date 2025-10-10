@@ -9,3 +9,14 @@ Fetches a random quote by default.
 Allows filtering quotes by a specific author name.
 
 Provides clear, colorful, and animated feedback in the terminal.
+
+🚀 Installation and Setup
+Clone the Repository:
+
+git clone <YOUR_GITHUB_REPO_URL_HERE>
+cd <YOUR_PROJECT_FOLDER>
+
+Install Dependencies:
+
+npm install
+
