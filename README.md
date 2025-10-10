@@ -20,3 +20,19 @@ Install Dependencies:
 
 npm install
 
+▶️ Usage
+The script is run using the node command.
+
+1. Fetch a Random Quote (Default)
+If no author is specified, a random quote is fetched.
+
+node quote-cli.js
+
+2. Filter by Author
+Use the --author flag (-a) to search for a quote by a specific person.
+
+# Using the full flag name
+node quote-cli.js --author "Albert Einstein"
+
+# Using the alias
+node quote-cli.js -a "Mark Twain"
