@@ -1,7 +1,9 @@
 📝 Quote of the Day CLI Tool
-This is a simple Command Line Interface (CLI) tool built with Node.js to fetch a random quote from the Quotable API, allowing users to filter by author.
+A publicly deployed Node.js Command Line Interface (CLI) tool.
 
-It demonstrates the use of key Node.js external libraries: Yargs for command parsing, Axios for API requests, Chalk for color formatting, and Ora for loading indicators.
+This CLI tool fetches random quotes from the zenquotes.io API. It demonstrates the complete lifecycle of a developer tool, from initial coding to public distribution on the npm registry.
+
+It showcases the use of key Node.js external libraries: Yargs for command parsing, Axios for robust API requests, Chalk for color formatting, and Ora for elegant loading indicators.
 
 ✨ Features
 Fetches a random quote by default.
