@@ -38,12 +38,17 @@ If you wish to work on the source code, you can clone this repository:
 Clone the repository:
 
 git clone: https://github.com/11AN-CODE/Quote_CLI
+
 cd open-quote-cli
 
 
 Install dependencies:
 
 npm install
+
+##(●'◡'●)A Glimpse of the Project
+<img width="999" height="303" alt="image" src="https://github.com/user-attachments/assets/33a159de-a7c4-485e-bda5-3e4e63804be9" />
+
 
 
 Run locally (using node to execute the source file):
