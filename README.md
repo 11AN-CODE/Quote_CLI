@@ -8,19 +8,16 @@ It showcases the use of key Node.js external libraries: Yargs for command parsin
 ✨ Features
 Fetches a random quote by default.
 
-Allows filtering quotes by a specific author name.
-
 Provides clear, colorful, and animated feedback in the terminal.
 
-🚀 Installation and Setup
-Clone the Repository:
+📦 Installation (For End Users)
 
-git clone <YOUR_GITHUB_REPO_URL_HERE>
-cd <YOUR_PROJECT_FOLDER>
+Since this project has been published to the npm registry, you do not need to clone the repository or install local dependencies.
 
-Install Dependencies:
+Run the following command globally in your terminal:
 
-npm install
+npm install -g open-quote-cli
+
 
 ▶️ Usage
 The script is run using the node command.
