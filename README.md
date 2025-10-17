@@ -37,7 +37,7 @@ If you wish to work on the source code, you can clone this repository:
 
 Clone the repository:
 
-git clone 
+git clone: https://github.com/11AN-CODE/Quote_CLI
 cd open-quote-cli
 
 
