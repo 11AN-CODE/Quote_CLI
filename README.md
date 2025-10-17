@@ -20,18 +20,33 @@ npm install -g open-quote-cli
 
 
 ▶️ Usage
-The script is run using the node command.
 
-1. Fetch a Random Quote (Default)
-If no author is specified, a random quote is fetched.
+Once installed, you can run the tool directly using the open-quote-cli command.
+
+Fetch a Random Quote (Default)
+
+If no options are specified, a random quote is fetched.
+
+open-quote-cli
+
+
+
+🧑‍💻 Development / Contributing
+
+If you wish to work on the source code, you can clone this repository:
+
+Clone the repository:
+
+git clone 
+cd open-quote-cli
+
+
+Install dependencies:
+
+npm install
+
+
+Run locally (using node to execute the source file):
 
 node quote-cli.js
 
-2. Filter by Author
-Use the --author flag (-a) to search for a quote by a specific person.
-
-# Using the full flag name
-node quote-cli.js --author "Albert Einstein"
-
-# Using the alias
-node quote-cli.js -a "Mark Twain"
